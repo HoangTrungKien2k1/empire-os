@@ -1,5 +1,5 @@
-// Empire OS v7.0 — Supreme Global HTTPS & Offline-First Service Worker (iOS Safari Range 206 + Full Audio & Data Vault)
-const CACHE_NAME = 'empire-os-global-vault-v7.0';
+// Empire OS v7.1 — Supreme Global HTTPS & Offline-First Service Worker (iOS Safari Range 206 + Full 10-Lesson Audio & Data Vault)
+const CACHE_NAME = 'empire-os-global-vault-v7.1';
 
 const CORE_ASSETS = [
   './',
@@ -15,7 +15,10 @@ const CORE_ASSETS = [
   'audio/Day_04_Tam_Ly_Dam_Dong_Le_Bon.mp3',
   'audio/Day_05_Phao_Dai_Tai_Chinh_3_Lop.mp3',
   'audio/Day_06_Thuong_Mai_Tam_Giac_Vang.mp3',
-  'audio/Day_07_Ky_Luat_Thep_SEAL.mp3'
+  'audio/Day_07_Ky_Luat_Thep_SEAL.mp3',
+  'audio/Day_08_Mo_Hinh_9_Tang_Xa_Hoi.mp3',
+  'audio/Day_09_Bang_Luong_Duc_Lohnabrechnung.mp3',
+  'audio/Day_10_Hai_Quan_Atlas_Zoll.mp3'
 ];
 
 self.addEventListener('install', (event) => {
