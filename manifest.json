@@ -1,0 +1,31 @@
+{
+  "name": "Empire OS - Bản Doanh Kiên Hoàng",
+  "short_name": "Empire OS",
+  "description": "Hệ Điều Hành Tác Chiến Đế Chế Cá Nhân Kiên Hoàng (@ai.money24)",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#080a0e",
+  "theme_color": "#080a0e",
+  "icons": [
+    {
+      "src": "apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
+
